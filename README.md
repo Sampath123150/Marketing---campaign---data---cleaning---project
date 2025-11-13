@@ -62,8 +62,23 @@ Saved the final cleaned dataset using:
 df.to_csv('cleaned_dataset.csv', index=False)
 
 ## Operations performed
+
 1.Missing Value Handling
+
 2.Duplicate Removal
+
 3.Column Renaming
+
 4.Data Type Conversion
+
 5.Text Standardization
+
+## Conclusion
+
+Cleaned and prepared a raw marketing campaign dataset for analysis.
+
+Handled missing values, duplicates, and inconsistent formatting effectively.
+
+Standardized column names, fixed data types, and converted date formats.
+
+The final cleaned dataset is stored as cleaned_dataset.csv and ready for visualization or modeling.
